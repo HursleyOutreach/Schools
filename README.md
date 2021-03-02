@@ -1,0 +1,2 @@
+# Schools
+GitHub Pages
